@@ -1,4 +1,4 @@
-# Real-Time E-Commerce Project
+# E-Commerce Project
 
 # Sample Screen 
 ![App Screenshot](./assets/vjkart.png)
