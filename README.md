@@ -1,7 +1,7 @@
 # E-Commerce Project
 
 # Sample Screen 
-<img src="./public/foodrecipe.png" alt="App Screenshot" width="600" />
+![App Screenshot](./public/vjkart.png)
 
 ## Overview
 
