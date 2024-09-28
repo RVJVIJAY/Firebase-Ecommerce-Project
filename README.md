@@ -1,7 +1,7 @@
 # E-Commerce Project
 
 # Sample Screen 
-![App Screenshot](./assets/vjkart.png)
+![App Screenshot](./public/vjkart.png)
 
 ## Overview
 
