@@ -1,8 +1,15 @@
 # Real-Time E-Commerce Project
 
+# Sample Screen 
+![App Screenshot](./assets/vjkart.png)
+
 ## Overview
 
 This project is a real-time e-commerce application built using Vite and React. It provides a user-friendly interface for browsing products, managing orders, and ensuring a seamless shopping experience. The backend is powered by Firebase, allowing for real-time data synchronization, secure user authentication, and easy database management.
+
+## Live Demo
+Check out the live demo of my project [here]( https://vjkart.netlify.app/ ).
+
 
 ## Technologies Used
 
