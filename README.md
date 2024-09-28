@@ -54,3 +54,15 @@ Make sure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/RVJVIJAY/Firebase-Ecommerce-Project
+2.**Navigate to the project directory:**
+
+     cd vjkart
+3.**Install dependencies using npm or yarn:**
+
+    npm install
+4.**Start the development server:**
+
+    npm run dev
+5.**Open the app in your browser:**
+
+    Once the development server is running, open http://localhost:5173 to view the application in your browser.
