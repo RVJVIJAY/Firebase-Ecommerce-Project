@@ -63,7 +63,7 @@ Make sure you have the following installed:
    git clone https://github.com/RVJVIJAY/Firebase-Ecommerce-Project
 2.**Navigate to the project directory:**
 
-     cd vjkart
+     cd Firebase-Ecommerce-Project
 3.**Install dependencies using npm or yarn:**
 
     npm install
